@@ -1,0 +1,1 @@
+console.log("Sito A.S.D. Cusano Volley caricato correttamente.");
